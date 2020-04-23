@@ -1,3 +1,4 @@
 Hello new branch
+branch master
 123
 123
